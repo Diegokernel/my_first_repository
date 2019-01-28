@@ -1,0 +1,1 @@
+*This project it's about to learn how to use github in the linux terminal.*
